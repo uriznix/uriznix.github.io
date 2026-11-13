@@ -2,29 +2,29 @@
 11 November 2026
 
 ### World
-- **US-brokered Russia-Ukraine talks resume in Abu Dhabi** after a 9-month pause; first day called “very productive” by Secretary of State Rubio and “substantive” by Zelenskyy, focused on prisoner exchanges, security guarantees, and a broader European security framework. Talks continue today.
-- **Nvidia CEO Jensen Huang’s admitted affair** with alleged Chinese intelligence asset Alice Huang triggers a board investigation, FBI scrutiny, and fresh pressure for tighter US export controls on advanced AI chips to China. Trump says Huang told him he had “no idea” she was a spy.
+- US-brokered Russia-Ukraine talks resume in Abu Dhabi after a 9-month pause; first day called “very productive” by Secretary of State Rubio and “substantive” by Zelenskyy, focused on prisoner exchanges, security guarantees, and a broader European security framework. Talks continue today.
+- Nvidia CEO Jensen Huang’s admitted affair with alleged Chinese intelligence asset Alice Huang triggers a board investigation, FBI scrutiny, and fresh pressure for tighter US export controls on advanced AI chips to China. Trump says Huang told him he had “no idea” she was a spy.
 - **October US CPI +0.4%** (above the 0.3% forecast), core +0.3% — third straight hot month. Markets fully price a December Fed hike; some officials signal openness to a larger move.
 - Ukraine loses the eastern town of Siversk, bringing Russian forces closer to the remaining Donetsk “fortress belt.” Libya’s army chief killed in a plane crash in Turkey. Gunmen abduct 28 travelers in central Nigeria. COP31 climate talks continue. US House blocks an impeachment bid against Defense Secretary Hegseth. Treasury Secretary Bessent reportedly moved to a military base over alleged Iranian threats.
 
 ### Business
-- **Nvidia sheds roughly $430 billion** in market value over two sessions amid the leadership scandal and China-chip questions; shares fell 5.5% on Tuesday alone.
-- **OpenAI** reports Q3 revenue of ~$10 billion (up ~50%) but operating losses of $10.9 billion.
-- **Anthropic** launches its IPO roadshow, targeting a fully diluted valuation of up to $1.4 trillion.
-- **TSMC** board approves up to $1 billion in investments in Anthropic and OpenAI.
+- Nvidia sheds roughly $430 billion in market value over two sessions amid the leadership scandal and China-chip questions; shares fell 5.5% on Tuesday alone.
+- OpenAI reports Q3 revenue of ~$10 billion (up ~50%) but operating losses of $10.9 billion.
+- Anthropic launches its IPO roadshow, targeting a fully diluted valuation of up to $1.4 trillion.
+- TSMC board approves up to $1 billion in investments in Anthropic and OpenAI.
 
-### Tech
+### Technology
 - Nvidia scandal dominates: board hires former acting US attorney Joon Kim’s firm for the probe; stock down ~10% in two days; reports of restricted H200 chips reaching PLA-linked Chinese entities intensify export-control debate.
 - CoreWeave’s strong results and raised outlook ease some overnight AI-demand fears and support chip stocks in Asia.
 - Anthropic expands its productivity suite (Sheets, Whiteboards, Data) ahead of the IPO.
 - SpaceX announces Starlink Mini 2 with a swappable battery.
 
-### Overnight / Early Market Moves
-- **US close (10 Nov):** S&P 500 7,520.93 (−0.38%), Dow 52,231.89 (−0.30%), Nasdaq 25,065.87 (−0.74%). Nvidia −5.47%. Hot CPI and Nvidia weakness drove the decline; 10-year Treasury yield near 4.98%. Markets price ~90%+ odds of a December Fed hike.
-- **Asia (11 Nov):** Mixed-to-higher, led by semiconductors. Nikkei up roughly 0.8–1.3%+, KOSPI and Taiwan strong on chipmakers (TSMC higher); Hang Seng softer. SoftBank pressured by a large quarterly loss.
-- **Europe (early 11 Nov):** Opening higher, with tech leading; DAX and other indices in positive territory.
-- **US futures:** Modestly higher, Nasdaq 100 futures leading on CoreWeave/AI optimism.
-- **Other:** Yen weaker on Fed-hike bets; Brent crude around $92 (supported by geopolitics but off highs on peace hopes); gold mixed.
+### Markets
+- US close (10 Nov): S&P 500 7,520.93 (−0.38%), Dow 52,231.89 (−0.30%), Nasdaq 25,065.87 (−0.74%). Nvidia −5.47%. Hot CPI and Nvidia weakness drove the decline; 10-year Treasury yield near 4.98%. Markets price ~90%+ odds of a December Fed hike.
+- Asia (11 Nov): Mixed-to-higher, led by semiconductors. Nikkei up roughly 0.8–1.3%+, KOSPI and Taiwan strong on chipmakers (TSMC higher); Hang Seng softer. SoftBank pressured by a large quarterly loss.
+- Europe (early 11 Nov): Opening higher, with tech leading; DAX and other indices in positive territory. 
+- US futures: Modestly higher, Nasdaq 100 futures leading on CoreWeave/AI optimism.
+- Other: Yen weaker on Fed-hike bets; Brent crude around $92 (supported by geopolitics but off highs on peace hopes); gold mixed.
 
 ### Story Worth Reading in Depth
 **The Jensen Huang / Alice Huang affair and its implications for US-China AI chip controls.**
