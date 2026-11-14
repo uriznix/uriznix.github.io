@@ -4,7 +4,7 @@ layout: default
 
 ## about
 
-Personal website and blog of Uriz Nix.
+Personal website and blog of <strong>Uriz Nix</strong>.
 
 I’ve been at this since the nineties, back when UNIX felt like a personality trait and C was the language that didn’t apologize for being difficult. These days I mostly negotiate with high-level languages and AI models that are very confident and occasionally useful.
 
