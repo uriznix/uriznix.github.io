@@ -1,6 +1,7 @@
 
 **NEWS**
 
+ * [11/17/26 — Ukraine Critically Damages Kerch Bridge to Crimea](./news/2026-11-17-ukraine-critically-damages-kerch-bridge-to-crimea.html)
  * [11/16/26 — Xi, Trump and Putin Set for First Three-Way Summit](./news/2026-11-16-xi-trump-and-putin-set-for-first-three-way-summit.html)
  * [11/15/26 — Mines Hit Tankers in Hormuz as Trump Weighs Pause on Iran Strikes](./news/2026-11-15-mines-hit-tankers-in-hormuz-as-trump-weighs-pause-on-iran-strikes.html)
  * [11/14/26 — Trump, Putin and Xi Plan Historic Joint Meeting in China](./news/2026-11-14-trump-putin-xi-plan-historic-joint-meeting-in-china.html)
