@@ -1,4 +1,4 @@
-## Nvidia Board Weighs Ousting CEO Jensen Huang Amid Spy Scandal and Affairs
+## Nvidia Board Weighs Ousting CEO Amid Spy Scandal and Affairs
 12 November 2026
 
 ### World

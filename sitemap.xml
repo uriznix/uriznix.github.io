@@ -15,6 +15,12 @@
   </url>
 
   <url>
+    <loc>https://uriznix.com/news/index.html</loc>
+       <lastmod>2026-11-18</lastmod>
+       <priority>0.8</priority>
+  </url>
+
+  <url>
        <loc>https://uriznix.com/news/2026-11-18-nvidia-beats-forecasts-as-board-rules-out-huangs-return.html</loc>
        <lastmod>2026-11-18</lastmod>
        <priority>0.8</priority>
