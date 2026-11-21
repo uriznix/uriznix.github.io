@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## about
+## About
 
 Personal website and blog of <strong>Uriz Nix</strong>.
 
-I’ve been at this since the nineties, back when UNIX felt like a personality trait and C was the language that didn’t apologize for being difficult. These days I mostly negotiate with high-level languages and AI models that are very confident and occasionally useful.
+Software Engineer since the nineties, back when UNIX felt like a personality trait and C was the language that didn’t apologize for being difficult. These days I mostly negotiate with high-level languages and AI models that are very confident and occasionally useful.
 
-I’m living on the investments: year one of FIRE. So far it feels like a long sabbatical where the only remaining boss is the market, and the market has strong opinions.
+Most of my time now goes into connecting dots between AI, code, and finance. Living on the investments has given me the time to do it well, without a sprint deadline, a standup, or someone asking if the ticket can still make it into this Friday’s release.
 
-<small>11/10/2026 edited by <em>uriz</em>.</small>
+<small>11/21/2026 edited by <em>uriz</em>.</small>
 
 [home](./)
