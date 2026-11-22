@@ -1,5 +1,6 @@
 ## News
 
+ * [11/22/26 — Claude-Assisted Proof of the Riemann Hypothesis Verified](./2026-11-22-claude-assisted-proof-of-the-riemann-hypothesis-verified.html)
  * [11/21/26 — AI Rout Pushes S&P 500 and Dow Into Correction](./2026-11-21-ai-rout-pushes-sp-500-and-dow-into-correction.html)
  * [11/20/26 — Anthropic's Record Debut Fails to Stop AI Sell-Off](./2026-11-20-anthropic-record-debut-fails-to-stop-ai-sell-off.html)
  * [11/19/26 — Trump, Xi and Putin End First Three-Way Summit Without a Deal](./2026-11-19-trump-xi-and-putin-end-first-three-way-summit-without-a-deal.html)
